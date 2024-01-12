@@ -1,0 +1,8 @@
+@misc{REPO062,
+    author = "Nie, Yuqi and Nguyen, Nam H. and Sinthong, Phanwadee and Kalagnanam, Jayant",
+    archiveprefix = "arXiv",
+    eprint = "2211.14730",
+    primaryclass = "cs.LG",
+    title = "{A Time Series is Worth 64 Words: Long-term Forecasting with Transformers}",
+    year = "2023"
+}
